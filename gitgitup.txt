@@ -3,3 +3,6 @@ ikinci gunilk deneme
 ---branch yeni ekleme 
 
 --2. eklem
+
+--after long time at the next day in the night now i min brabch 
+--i am adding something to put my code working sapce
